@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\northwest-corner-method\NorthwestCornerMethod\bin\Debug\NorthwestCornerMethod.exe.config
+C:\Users\HP\Desktop\northwest-corner-method\NorthwestCornerMethod\bin\Debug\NorthwestCornerMethod.exe
+C:\Users\HP\Desktop\northwest-corner-method\NorthwestCornerMethod\bin\Debug\NorthwestCornerMethod.pdb
+C:\Users\HP\Desktop\northwest-corner-method\NorthwestCornerMethod\obj\Debug\NorthwestCornerMethod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\northwest-corner-method\NorthwestCornerMethod\obj\Debug\NorthwestCornerMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\northwest-corner-method\NorthwestCornerMethod\obj\Debug\NorthwestCornerMethod.exe
+C:\Users\HP\Desktop\northwest-corner-method\NorthwestCornerMethod\obj\Debug\NorthwestCornerMethod.pdb
